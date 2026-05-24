@@ -1,0 +1,11 @@
+{
+  "name": "sdg-middleware",
+  "version": "1.0.0",
+  "description": "SDG data middleware for Framer",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
